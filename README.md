@@ -1,2 +1,1 @@
-# konrad-rpg
-2 projekt 2e rpg
+demo gry przygotowej wykonanej na zajęciach 
